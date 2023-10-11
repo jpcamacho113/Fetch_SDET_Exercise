@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ScaleClass",
+            "request": "launch",
+            "mainClass": "com.weightscale.ScaleClass",
+            "projectName": "scale"
+        },
+        {
+            "type": "java",
+            "name": "ScaleClass",
+            "request": "launch",
+            "mainClass": "scale.src.main.java.com.weightscale.ScaleClass",
+            "projectName": "Fetch_SDET_Exercise_ced2ffd"
+        }
+    ]
+}
