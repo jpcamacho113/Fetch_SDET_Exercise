@@ -68,5 +68,6 @@
             "c:\\Users\\camac\\Downloads\\selenium-java-4.14.0\\selenium-api-4.14.0.jar"
         ]
     },
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
