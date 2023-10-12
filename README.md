@@ -12,7 +12,7 @@ Any necessary jar files for the Java classpath have been included.
 ## Running the application
 
 ### Terminal
-Navigate to the Fetch_SDET_Exercise directory after obtaining the necessary files and run the following command:  *java -cp selenium-java-4.14.0\lib\* .\scale\src\main\java\com\weightscale\ScaleClass.java*
+Navigate to the Fetch_SDET_Exercise directory after obtaining the necessary files and run the following command:  java -cp selenium-java-4.14.0\lib\* .\scale\src\main\java\com\weightscale\ScaleClass.java
 
 It may need to be run twice to add the necessary dependencies.
 
