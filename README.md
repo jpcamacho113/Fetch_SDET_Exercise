@@ -7,6 +7,8 @@ Maven installation link: https://maven.apache.org/install.html
 
 Any necessary jar files for the Java classpath have been included.
 
+
+
 ## Running the application
 
 ### Terminal
@@ -15,6 +17,8 @@ Navigate to the Fetch_SDET_Exercise directory after obtaining the necessary file
 
 ### IDE
 The application should function similar to any other obtained from Github.
+
+
 
 ## The Algorithm
 
